@@ -1,0 +1,13 @@
+body {
+    background-color: #0b0c10;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+#pantalla-radar {
+    background-color: #1f2833;
+    border: 3px solid #66fcf1;
+    border-radius: 5px;
+    box-shadow: 0 0 15px #66fcf1;
+}
